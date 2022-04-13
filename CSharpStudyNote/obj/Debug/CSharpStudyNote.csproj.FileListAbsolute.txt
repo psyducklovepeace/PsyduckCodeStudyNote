@@ -1,0 +1,7 @@
+C:\CodePlay\CodeStudyNote\PsyduckCodeStudyNote\C#\CSharpStudyNote\bin\Debug\CSharpStudyNote.exe.config
+C:\CodePlay\CodeStudyNote\PsyduckCodeStudyNote\C#\CSharpStudyNote\bin\Debug\CSharpStudyNote.exe
+C:\CodePlay\CodeStudyNote\PsyduckCodeStudyNote\C#\CSharpStudyNote\bin\Debug\CSharpStudyNote.pdb
+C:\CodePlay\CodeStudyNote\PsyduckCodeStudyNote\C#\CSharpStudyNote\obj\Debug\CSharpStudyNote.csproj.AssemblyReference.cache
+C:\CodePlay\CodeStudyNote\PsyduckCodeStudyNote\C#\CSharpStudyNote\obj\Debug\CSharpStudyNote.csproj.CoreCompileInputs.cache
+C:\CodePlay\CodeStudyNote\PsyduckCodeStudyNote\C#\CSharpStudyNote\obj\Debug\CSharpStudyNote.exe
+C:\CodePlay\CodeStudyNote\PsyduckCodeStudyNote\C#\CSharpStudyNote\obj\Debug\CSharpStudyNote.pdb
