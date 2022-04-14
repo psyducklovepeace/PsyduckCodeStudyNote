@@ -63,5 +63,8 @@ dkms.conf
 
 # vs2019
 .vs/
+.obj/
+.bin/
 *.exe
 *.cache
+
