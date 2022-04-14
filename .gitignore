@@ -63,7 +63,7 @@ dkms.conf
 
 # vs2019
 .vs/
-.obj/
-.bin/
+obj/
+bin/
 *.sln
 
