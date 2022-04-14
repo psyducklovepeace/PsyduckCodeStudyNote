@@ -65,6 +65,5 @@ dkms.conf
 .vs/
 .obj/
 .bin/
-*.exe
-*.cache
+*.sln
 
