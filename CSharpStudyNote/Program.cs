@@ -10,7 +10,7 @@ namespace CSharpStudyNote
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello psyduck");
+            Console.WriteLine("hello psyduck and love peace");
             Console.ReadKey();
         }
     }
