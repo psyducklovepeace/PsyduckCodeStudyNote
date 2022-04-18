@@ -13,5 +13,7 @@ namespace CSharpStudyNote
             Console.WriteLine("hello psyduck and love peace");
             Console.ReadKey();
         }
+
+
     }
 }
