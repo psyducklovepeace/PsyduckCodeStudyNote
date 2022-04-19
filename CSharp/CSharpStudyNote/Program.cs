@@ -10,10 +10,8 @@ namespace CSharpStudyNote
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello psyduck and love peace");
+            Console.WriteLine("hello world :)");
             Console.ReadKey();
         }
-
-
     }
 }

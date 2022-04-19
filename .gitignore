@@ -67,3 +67,5 @@ obj/
 bin/
 *.sln
 
+# ProjectD
+ProjectD.md
