@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CSharpStudyNote
 {
     class Program
-    {
+    {       
         static void Main(string[] args)
         {
             Console.WriteLine("hello world :)");
