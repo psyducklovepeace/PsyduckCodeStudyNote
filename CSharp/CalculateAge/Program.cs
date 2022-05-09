@@ -155,10 +155,6 @@ namespace CalculateAge
                         str_AgeStr = $"{diff_Day}天";
                 }
             }
-
-
-
-
         }
 
         /// <summary>
